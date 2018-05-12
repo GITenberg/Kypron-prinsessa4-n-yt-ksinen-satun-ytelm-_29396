@@ -1,0 +1,51 @@
+_repo: Kypron-prinsessa4-n-yt-ksinen-satun-ytelm-_29396
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Leino, Eino
+    aliases:
+    - Sepeteus, Kanttori
+    - Lönnbohm, Armas Eino Leopold
+    - Leino, Armas Eino Leopold
+    - Lönnbohm, Armas Einar Leopold
+    - Lonnbohm, Armas Eino Leopold
+    - Vilkastus, Mikko
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eino_Leino
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Zachris
+    - Topelius, Sakarias
+    - Topelius, Zakarias
+    - Topelius, Zakris
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+description: ''
+gutenberg_issued: '2009-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29396'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PT'
+title: 'Kypron prinsessa: 4-näytöksinen satunäytelmä'
+url: http://www.gutenberg.org/ebooks/29396
